@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![kregarm](https://circleci.com/gh/kregarm/microservices-project.svg?style=svg)](https://app.circleci.com/pipelines/github/kregarm/microservices-project?branch=master)
 
 ## Project Overview
 
